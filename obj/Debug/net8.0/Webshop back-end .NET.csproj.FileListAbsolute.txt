@@ -1,0 +1,32 @@
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\bin\Debug\net8.0\appsettings.json
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\bin\Debug\net8.0\Webshop back-end .NET.exe
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\bin\Debug\net8.0\Webshop back-end .NET.deps.json
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\bin\Debug\net8.0\Webshop back-end .NET.runtimeconfig.json
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\bin\Debug\net8.0\Webshop back-end .NET.dll
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\bin\Debug\net8.0\Webshop back-end .NET.pdb
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\Webshop back-end .NET.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\Webshop back-end .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\Webshop back-end .NET.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\Webshop back-end .NET.AssemblyInfo.cs
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\Webshop back-end .NET.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\Webshop back-end .NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\Webshop back-end .NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\staticwebassets\msbuild.Webshop back-end .NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\staticwebassets\msbuild.build.Webshop back-end .NET.props
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Webshop back-end .NET.props
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Webshop back-end .NET.props
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\scopedcss\bundle\Webshop back-end .NET.styles.css
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\Webshop .A43F2DB0.Up2Date
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\Webshop back-end .NET.dll
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\refint\Webshop back-end .NET.dll
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\Webshop back-end .NET.pdb
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\Webshop back-end .NET.genruntimeconfig.cache
+C:\Users\Angel\Desktop\C#CRUD\Webshop back-end .NET\obj\Debug\net8.0\ref\Webshop back-end .NET.dll

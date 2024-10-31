@@ -1,0 +1,6 @@
+@Webshop_back_end_.NET_HostAddress = http://localhost:5234
+
+GET {{Webshop_back_end_.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
